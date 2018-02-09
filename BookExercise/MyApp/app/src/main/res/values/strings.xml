@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Convert</string>
+    <string name="convert">convert</string>
+    <string name="USD">TextView</string>
+</resources>

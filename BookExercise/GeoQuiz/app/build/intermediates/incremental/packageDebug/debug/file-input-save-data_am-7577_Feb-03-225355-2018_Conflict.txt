@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jan 23 22:58:59 PST 2018
+0.baseType=DIRECTORY
+0.base=/home/am/Classes/SDSU_Spring2018/CS646_AndroidDev/BookExercise/GeoQuiz/app/build/intermediates/transforms/dexMerger/debug/19
+0.path=classes.dex
+0.set=DEX
+count=1

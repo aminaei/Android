@@ -1,0 +1,4 @@
+#Sun Jan 28 15:18:46 PST 2018
+base.0=C\:\\Users\\am\\Classes\\SDSU_Spring2018\\CS646_AndroidDev\\BookExercise\\TextFiedTest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
