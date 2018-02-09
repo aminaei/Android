@@ -1,10 +1,42 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\home\\am\\Classes\\SDSU_Sprint2018\\CS646_AndroidDev\\BookExercise\\GeoQuiz\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\home\\am\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5e21c707348ca32c37e4e5f56d40fb5f\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\am\\Classes\\SDSU_Spring2018\\CS646_AndroidDev\\BookExercise\\GeoQuiz\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
                     "source": "C:\\Users\\am\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90997b02b75628622f2ce65d83516188\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\home\\am\\Classes\\CS646_AndroidDev\\BookExercise\\GeoQuiz\\C:\\Users\\am\\Classes\\SDSU_Spring2018\\CS646_AndroidDev\\BookExercise\\GeoQuiz\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\home\\am\\Classes\\CS646_AndroidDev\\BookExercise\\GeoQuiz\\C:\\Users\\am\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90997b02b75628622f2ce65d83516188\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

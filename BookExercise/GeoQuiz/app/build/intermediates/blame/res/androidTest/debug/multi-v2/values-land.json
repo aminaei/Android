@@ -14,6 +14,36 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "C:\\home\\am\\Classes\\SDSU_Sprint2018\\CS646_AndroidDev\\BookExercise\\GeoQuiz\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\home\\am\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5e21c707348ca32c37e4e5f56d40fb5f\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\home\\am\\Classes\\CS646_AndroidDev\\BookExercise\\GeoQuiz\\C:\\Users\\am\\Classes\\SDSU_Spring2018\\CS646_AndroidDev\\BookExercise\\GeoQuiz\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\home\\am\\Classes\\CS646_AndroidDev\\BookExercise\\GeoQuiz\\C:\\Users\\am\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90997b02b75628622f2ce65d83516188\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
         }
     ]
 }
