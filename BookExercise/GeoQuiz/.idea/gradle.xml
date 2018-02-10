@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../../../SDSU_Sprint2018/CS646_AndroidDev/BookExercise/GeoQuiz" />
-            <option value="$PROJECT_DIR$/../../../SDSU_Sprint2018/CS646_AndroidDev/BookExercise/GeoQuiz/app" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
