@@ -1,9 +1,15 @@
 <resources>
     <string name="app_name">Assignment2</string>
-    <string name="fname_name">First Name</string>
-    <string name="lname_name">Last Name</string>
-    <string name="age_name">Age</string>
-    <string name="email_name">Email</string>
-    <string name="phone_name">Phone</string>
-    <string name="majorButton_name">Major</string>
+    <string name="fname_TextView">First Name</string>
+    <string name="fname">First Name</string>
+    <string name="lname_TextView">Last Name</string>
+    <string name="lname">Last Name</string>
+    <string name="age_TextView">Age</string>
+    <string name="ageText">Age</string>
+    <string name="email_TextView">Email</string>
+    <string name="emailText">Email</string>
+    <string name="phone_TextView">Phone</string>
+    <string name="phoneText">Phone</string>
+    <string name="majorButton_TextView">Major</string>
+    <string name="majorButtonText">Major</string>
 </resources>
