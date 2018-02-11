@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Assignment2</string>
+    <string name="fname_name">First Name</string>
+    <string name="lname_name">Last Name</string>
+    <string name="age_name">Age</string>
+    <string name="email_name">Email</string>
+    <string name="phone_name">Phone</string>
+    <string name="majorButton_name">Major</string>
 </resources>
