@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -7,11 +8,20 @@
     tools:context="com.example.am.assignment2.MainActivity">
 
     <LinearLayout
-        android:layout_width="276dp"
-        android:layout_height="447dp"
+        android:id="@+id/mainList"
+        android:layout_width="423dp"
+        android:layout_height="619dp"
+        android:layout_marginBottom="408dp"
+        android:layout_marginEnd="450dp"
+        android:layout_marginStart="42dp"
+        android:layout_marginTop="32dp"
         android:orientation="vertical"
-        tools:layout_editor_absoluteX="30dp"
-        tools:layout_editor_absoluteY="24dp">
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
 
         <LinearLayout
             android:id="@+id/fnameList"
@@ -127,11 +137,12 @@
                 android:inputType="phone" />
         </LinearLayout>
 
-        <Button
-            android:id="@+id/majorButton"
+        <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/fragment_container"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/majorButton_TextView" />
+            android:layout_height="wrap_content">
+
+        </FrameLayout>
 
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
