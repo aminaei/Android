@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">fragmentTest</string>
+
+    <string-array name="PHD">
+        <item>Bioengineering</item>
+        <item>Biology</item>
+        <item>Chemistry</item>
+        <item>Clinical Psychology</item>
+        <item>Computational Science</item>
+        <item>Ecology</item>
+        <item>Education</item>
+        <item>Engineering/Bioengineering</item>
+        <item>Engineering/Electrical and Computer</item>
+        <item>Engineering/Mechanical and Aerospace</item>
+        <item>Engineering/Structural</item>
+        <item>Evolutionary Biology</item>
+        <item>Geography</item>
+        <item>Geophysics</item>
+        <item>Language and Communicative Disorders</item>
+        <item>Mathematics and Science Education</item>
+        <item>Public Health</item>
+    </string-array>
+</resources>
