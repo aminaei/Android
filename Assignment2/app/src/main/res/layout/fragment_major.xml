@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/major_dgree_label"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/phd_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="phdSelected"
+            android:text="@string/PHD_label" />
+        <Button
+            android:id="@+id/edd_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="eddSelected"
+            android:text="@string/Edd_label" />
+        <Button
+            android:id="@+id/ma_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="maSelected"
+            android:text="@string/MA_label" />
+        <Button
+            android:id="@+id/ms_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="msSelected"
+            android:text="@string/MS_label" />
+        <Button
+            android:id="@+id/mfa_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="mfaSelected"
+            android:text="@string/MFA_label" />
+        <Button
+            android:id="@+id/pmd_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="pmdSelected"
+            android:text="@string/PMD_label" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
